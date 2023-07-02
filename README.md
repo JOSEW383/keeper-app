@@ -1,7 +1,7 @@
 # Keeper App
 This repository contains the code for a note-taking app built with React, following the [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp) course. The app is inspired by Google Keep and allows users to create, edit, and delete notes.
-<p><img src="https://github.com/JOSEW383/keeper-app/blob/master/public/keeper-app_demo.gif" alt="Demo" width="50%" height="50%" /></p>
 
+![](https://github.com/JOSEW383/keeper-app/blob/master/public/keeper-app_demo.gif)
 
 ## Getting Started
 To run the project locally, follow these steps:
